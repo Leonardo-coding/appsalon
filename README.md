@@ -3,8 +3,8 @@
 **Proyecto final – Programación orientada a la web**
 **Entrega intermedia – Semana 11**
 
-Autor: [Tu nombre completo]
-Repositorio: [URL del repositorio en GitHub]
+Autor: [Leonardo Martinez Chavez]
+Repositorio: [(https://github.com/Leonardo-coding/appsalon)]
 
 AppSalon es una aplicación web para la gestión de un salón de belleza. En esta entrega intermedia se implementan la base de datos, la autenticación de usuarios con roles (cliente y administrador) y la gestión del catálogo de servicios.
 
@@ -41,7 +41,7 @@ AppSalon es una aplicación web para la gestión de un salón de belleza. En est
 
    ```
    cd C:\xampp\htdocs
-   git clone [URL del repositorio] appsalon
+   git clone [(https://github.com/Leonardo-coding/appsalon)] appsalon
    cd appsalon
    ```
 
